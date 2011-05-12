@@ -18,4 +18,4 @@
         "Buzz"
         i))))
 
-(apply println (interpose "\n" (map fizzbuzz (range 1 101)))) ;; 1->101 inclusive...
+(apply println (interpose "\n" (map fizzbuzz (range 1 101)))) ;; 1->101 inclusive... ie 1 100 is really 1 to 99
