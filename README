@@ -1,0 +1,13 @@
+# fizzbuzz
+
+An example clojure program that implement's coding horror's fizzbuzz and supports emacs / swank-clojure.
+
+## Usage
+
+Example clojure project to test emacs setup. Specifically swank-clojure and my jmatt-emacs repository.
+
+## License
+
+Copyright (C) 2011 J. Matt Peterson
+
+Distributed under the Eclipse Public License, the same as Clojure.
